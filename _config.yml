@@ -51,7 +51,7 @@ plugins:
 # paginate: 5
 # paginate_path: /page:num/
 
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
 
 highlighter: rouge
 markdown: kramdown
